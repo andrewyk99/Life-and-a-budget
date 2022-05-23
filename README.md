@@ -1,4 +1,4 @@
-# LIfe-and-a-budget
+# Life-and-a-budget
 
 ## Description
 A simple budgeting website that allows the user to manually input the name, the budget, and actual amount of their income, expenses, and savings. The homepage allows the user to login or go to the main budgeting page if they are already logged in.
